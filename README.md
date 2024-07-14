@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaojardim1205
+- 👋 Hi, I’m joão
 - 👀 I’m interested in Computer Science and programming
 - 🌱 I’m currently learning JavaScript and HTML
 
